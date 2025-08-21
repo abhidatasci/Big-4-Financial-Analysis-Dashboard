@@ -48,7 +48,7 @@ To provide a **comparative risk & performance analysis** of Big 4 firms, while s
 
 ## 🖼️ Dashboard Screenshot  
 Below is a preview of the **Power BI dashboard**:
-![Dashboard Screenshot]()  
+![Dashboard Screenshot](https://github.com/abhidatasci/Big-4-Financial-Analysis-Dashboard/blob/main/financial%20risk%20%26%20audit%20analysis.png)  
 
 
 ---
