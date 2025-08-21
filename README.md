@@ -44,7 +44,12 @@ To provide a **comparative risk & performance analysis** of Big 4 firms, while s
 - **Deloitte & EY** → Show **high volatility** in high-risk cases, indicating inconsistent audit outcomes.  
 - **PwC** → Displays a **steady decline in high-risk cases**, suggesting stronger internal controls.  
 - **KPMG** → Stable until 2023, but a **sharp drop afterward**, raising questions on recent audit practices.  
-- **AI Auditing** → Firms leveraging **AI show better fraud detection rates** and **higher client satisfaction** compared to traditional audits.  
+- **AI Auditing** → Firms leveraging **AI show better fraud detection rates** and **higher client satisfaction** compared to traditional audits.
+
+## 🖼️ Dashboard Screenshot  
+Below is a preview of the **Power BI dashboard**:
+![Dashboard Screenshot]()  
+
 
 ---
 
